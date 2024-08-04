@@ -7,7 +7,7 @@
 
 ![Lino GitHub stats](https://github-readme-stats.vercel.app/api?username=Lino404&show_icons=true&theme=radical)
 
-###learning
+### learning
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
