@@ -2,9 +2,9 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Aesthetic" width="100%" />
-    </td>
+    <div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lino404&theme=midnight-purple&hide_border=true" width="425" />
+</div>
     <td align="left" width="50%">
       <h3>🎓 Acadêmico | 💻 Estagiário</h3>
       <p>Estudante de Análise e Desenvolvimento de Sistemas na <strong>UEPB</strong> e vivenciando o dia a dia profissional como estagiário. Apaixonado pela área de desenvolvimento e por criar soluções com código.</p>
