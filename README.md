@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Lino404&show_icons=true&theme=onedark&include_all_commits=true" alt="Lino's GitHub Stats" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Aesthetic" width="100%" />
     </td>
     <td align="left" width="50%">
       <h3>🎓 Acadêmico | 💻 Estagiário</h3>
@@ -31,6 +31,5 @@
 <div align="center">
   <h3>📫 Onde me encontrar</h3>
   <a href="https://www.youtube.com/channel/UCOocUkRDQ31fxB_4crlIweA"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/alandesu__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/alandesu_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
