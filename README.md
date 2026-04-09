@@ -1,16 +1,17 @@
 # Olá, eu sou o Lino 👋
 
-<table align="center">
-  <tr>
-    <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lino404&theme=midnight-purple&hide_border=true" width="425" />
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lino404&theme=midnight-purple&hide_border=true" width="100%" />
+  </div>
+
+  <div style="flex: 1;">
+    <h3>🎓 Acadêmico | 💻 Estagiário</h3>
+    <p>Estudante de Análise e Desenvolvimento de Sistemas na <strong>UEPB</strong> e vivenciando o dia a dia profissional como estagiário. Apaixonado pela área de desenvolvimento e por criar soluções com código.</p>
+  </div>
+
 </div>
-    <td align="left" width="50%">
-      <h3>🎓 Acadêmico | 💻 Estagiário</h3>
-      <p>Estudante de Análise e Desenvolvimento de Sistemas na <strong>UEPB</strong> e vivenciando o dia a dia profissional como estagiário. Apaixonado pela área de desenvolvimento e por criar soluções com código.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
